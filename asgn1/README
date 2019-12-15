@@ -1,0 +1,5 @@
+This program emulates the linux command dc. It contains two main files, bigint.cpp and ubigint.cpp, and their respective header files. They implement basic operators for numbers and allow for large computations to be completed, without worrying about data ranges. 
+
+Solo Programming
+Sukhveer Karlcut
+skarlcut@ucsc.edu
